@@ -9,6 +9,8 @@ export default function Home() {
       <div className={style["about"]}>
         <p>Hi! My name is James and I&apos;m currently a 3rd year Computer Engineer.</p>
         <p>Please make a merge conflict for me!</p>
+        <p>Gotchu James!</p>
+        <p>Hi! My name is Belal and I&apos;m currently a 3rd year Computer Science Student.</p>
       </div>
     </main>
   );
